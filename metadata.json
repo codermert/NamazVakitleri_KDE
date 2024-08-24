@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "codermert@bk.ru",
+                "Name": "Mert | @codermert"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Namaz Vakitlerini gösteren plasmoid aracı",
+        "Icon": "clock",
+        "Id": "org.kde.mertPrayerTimes",
+        "License": "GPL-2.0+",
+        "Name": "Ezan Vakitleri",
+        "EnabledByDefault": true,
+        "Version": "1.0",
+        "Website": "https://www.pling.com/u/codermert/"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-ConfigPlugins": ["org.kde.plasma.configuration.mertPrayerTimes"]
+}
