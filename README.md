@@ -10,6 +10,10 @@ Günlük namaz vakitlerini gösteren ve hatırlatan KDE Plasma plasmoid'i. 🕰�
 - 🔔 Yaklaşan namaz vakitleri için bildirimler sunar (1 saat, 15 dakika ve 5 dakika kala)
 - 🔄 Otomatik olarak günlük namaz vakitlerini günceller
 
+## Ekran görüntüsü
+![image](https://github.com/user-attachments/assets/f8752c89-c604-4ff1-86ba-1bc6f1e5b27c)
+
+
 ## 🛠️ Kurulum
 
 1. Repository'yi klonlayın:
